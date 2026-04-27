@@ -38,8 +38,8 @@
 
 | 天 | 知识点 | 链接 |
 |---|--------|------|
-| 01 | MySQL 架构详解：Client/Server 通信流程 | [公众号](https://mp.weixin.qq.com/s/SPjOuuG2g57DoKPogSInaw) |
-| 02 | 存储引擎的选择：InnoDB vs MyISAM | 🕐 04.27 发布 |
+| 01 | MySQL 架构详解：Client/Server 通信流程 | [2026.04.26](https://mp.weixin.qq.com/s/SPjOuuG2g57DoKPogSInaw) |
+| 02 | 存储引擎的选择：InnoDB vs MyISAM | [2026.04.27](https://mp.weixin.qq.com/s/mzQX1Fo2o5ZS1JvV2xungQ)|
 | 03 | MySQL 安装与配置 | 🕐 04.28 发布 |
 | 04 | MySQL 常用命令 | 🕐 04.29 发布 |
 | 05 | 索引基础：B+ 树详解 | 🕐 04.30 发布 |
