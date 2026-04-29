@@ -41,9 +41,10 @@
 | 01 | MySQL 架构详解：Client/Server 通信流程 | [2026.04.26](https://mp.weixin.qq.com/s/SPjOuuG2g57DoKPogSInaw) |
 | 02 | 存储引擎的选择：InnoDB vs MyISAM | [2026.04.27](https://mp.weixin.qq.com/s/mzQX1Fo2o5ZS1JvV2xungQ)|
 | 03 | MySQL 安装与配置 | [2026.04.28](https://mp.weixin.qq.com/s/naZoRmc7gALmGx20bwFjzg)|
-| 04 | MySQL 常用命令 | 🕐 04.29 发布 |
+| 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/53mflbkfbcPNj2mKP8yH3w) |
 | 05 | 索引基础：B+ 树详解 | 🕐 04.30 发布 |
 | 06 | 索引优化：何时建索引、何时不建 | 🕐 05.01 发布 |
+| 07 | SQL优化工具推荐 | 🕐 05.02 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
 
