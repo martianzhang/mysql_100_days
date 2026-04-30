@@ -42,9 +42,13 @@
 | 02 | 存储引擎的选择：InnoDB vs MyISAM | [2026.04.27](https://mp.weixin.qq.com/s/mzQX1Fo2o5ZS1JvV2xungQ)|
 | 03 | MySQL 安装与配置 | [2026.04.28](https://mp.weixin.qq.com/s/naZoRmc7gALmGx20bwFjzg)|
 | 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/53mflbkfbcPNj2mKP8yH3w) |
-| 05 | 索引基础：B+ 树详解 | 🕐 04.30 发布 |
+| 05 | 索引基础：B+ 树详解 | [2026-04-30](https://mp.weixin.qq.com/s/84vYhc3YHlCCM-2Quw7G7w) |
 | 06 | 索引优化：何时建索引、何时不建 | 🕐 05.01 发布 |
 | 07 | SQL优化工具推荐 | 🕐 05.02 发布 |
+| 08 | SQL基础：SELECT执行流程 | 🕐 05.03 发布 |
+| 09 | WHERE子句优化技巧 | 🕐 05.04 发布 |
+| 10 | JOIN的底层原理与优化 | 🕐 05.05 发布 |
+| 11 | 子查询的坑与优化方案 | 🕐 05.06 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
 
@@ -78,7 +82,7 @@
 
 <div align="center">
 
-<img src="wechat.png" width="300" alt="微信公众号" />
+<img src="wechat.png" width="400" alt="微信公众号" />
 
 **扫码关注微信公众号，每天一起打怪升级 🗡️**
 
