@@ -43,7 +43,7 @@
 | 03 | MySQL 安装与配置 | [2026.04.28](https://mp.weixin.qq.com/s/naZoRmc7gALmGx20bwFjzg)|
 | 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/53mflbkfbcPNj2mKP8yH3w) |
 | 05 | 索引基础：B+ 树详解 | [2026-04-30](https://mp.weixin.qq.com/s/84vYhc3YHlCCM-2Quw7G7w) |
-| 06 | 索引优化：何时建索引、何时不建 | 🕐 05.01 发布 |
+| 06 | 索引优化：何时建索引、何时不建 | [2026-05-01](https://mp.weixin.qq.com/s/N0M5Joe0k1VHrEMEji8TBw) |
 | 07 | SQL优化工具推荐 | 🕐 05.02 发布 |
 | 08 | SQL基础：SELECT执行流程 | 🕐 05.03 发布 |
 | 09 | WHERE子句优化技巧 | 🕐 05.04 发布 |
