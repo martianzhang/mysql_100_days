@@ -48,9 +48,11 @@
 | 08 | SQL基础：SELECT执行流程 | [2026-05-03](https://mp.weixin.qq.com/s/SJJm8Jmk4zvkYR10xtHHXA) |
 | 09 | WHERE子句优化技巧 | [2026-05-04](https://mp.weixin.qq.com/s/pFMdaD1YQ8VeleW6sfLBcA) |
 | 10 | JOIN的底层原理与优化 | [2026-05-05](https://mp.weixin.qq.com/s/6jWddElYoXDzxQ6xiaaOaA) |
-| 11 | 子查询的坑与优化方案 | 🕐 05.06 发布 |
+| 11 | 子查询的坑与优化方案 | [2026-05-06](https://mp.weixin.qq.com/s/UcguNlrZn-j86kMjLUBbdA)|
 | 12 | GROUP BY与COUNT的效率问题 | 🕐 05.07 发布 |
 | 13 | ORDER BY的实现原理 | 🕐 05.08 发布 |
+| 14 | LIMIT分页的性能优化 | 🕐 05.09 发布 |
+| 15 | INSERT批量插入的最佳实践 | 🕐 05.10 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
 
