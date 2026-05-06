@@ -44,11 +44,13 @@
 | 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/53mflbkfbcPNj2mKP8yH3w) |
 | 05 | 索引基础：B+ 树详解 | [2026-04-30](https://mp.weixin.qq.com/s/84vYhc3YHlCCM-2Quw7G7w) |
 | 06 | 索引优化：何时建索引、何时不建 | [2026-05-01](https://mp.weixin.qq.com/s/N0M5Joe0k1VHrEMEji8TBw) |
-| 07 | SQL优化工具推荐 | 🕐 05.02 发布 |
-| 08 | SQL基础：SELECT执行流程 | 🕐 05.03 发布 |
-| 09 | WHERE子句优化技巧 | 🕐 05.04 发布 |
-| 10 | JOIN的底层原理与优化 | 🕐 05.05 发布 |
+| 07 | SQL优化工具推荐 | [2026-05-02](https://mp.weixin.qq.com/s/p3Dusvvt7BmE1uLDNL5Omw) |
+| 08 | SQL基础：SELECT执行流程 | [2026-05-03](https://mp.weixin.qq.com/s/SJJm8Jmk4zvkYR10xtHHXA) |
+| 09 | WHERE子句优化技巧 | [2026-05-04](https://mp.weixin.qq.com/s/pFMdaD1YQ8VeleW6sfLBcA) |
+| 10 | JOIN的底层原理与优化 | [2026-05-05](https://mp.weixin.qq.com/s/6jWddElYoXDzxQ6xiaaOaA) |
 | 11 | 子查询的坑与优化方案 | 🕐 05.06 发布 |
+| 12 | GROUP BY与COUNT的效率问题 | 🕐 05.07 发布 |
+| 13 | ORDER BY的实现原理 | 🕐 05.08 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
 
