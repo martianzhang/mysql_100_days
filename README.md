@@ -49,7 +49,7 @@
 | 09 | WHERE子句优化技巧 | [2026-05-04](https://mp.weixin.qq.com/s/pFMdaD1YQ8VeleW6sfLBcA) |
 | 10 | JOIN的底层原理与优化 | [2026-05-05](https://mp.weixin.qq.com/s/6jWddElYoXDzxQ6xiaaOaA) |
 | 11 | 子查询的坑与优化方案 | [2026-05-06](https://mp.weixin.qq.com/s/UcguNlrZn-j86kMjLUBbdA)|
-| 12 | GROUP BY与COUNT的效率问题 | 🕐 05.07 发布 |
+| 12 | GROUP BY与COUNT的效率问题 | [2026-05-07](https://mp.weixin.qq.com/s/lzTpCD9d4tUzkyXGk4aVPw) |
 | 13 | ORDER BY的实现原理 | 🕐 05.08 发布 |
 | 14 | LIMIT分页的性能优化 | 🕐 05.09 发布 |
 | 15 | INSERT批量插入的最佳实践 | 🕐 05.10 发布 |
