@@ -38,19 +38,19 @@
 
 | 天 | 知识点 | 链接 |
 |---|--------|------|
-| 01 | MySQL 架构详解：Client/Server 通信流程 | [2026.04.26](https://mp.weixin.qq.com/s/SPjOuuG2g57DoKPogSInaw) |
-| 02 | 存储引擎的选择：InnoDB vs MyISAM | [2026.04.27](https://mp.weixin.qq.com/s/mzQX1Fo2o5ZS1JvV2xungQ)|
-| 03 | MySQL 安装与配置 | [2026.04.28](https://mp.weixin.qq.com/s/naZoRmc7gALmGx20bwFjzg)|
-| 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/53mflbkfbcPNj2mKP8yH3w) |
-| 05 | 索引基础：B+ 树详解 | [2026-04-30](https://mp.weixin.qq.com/s/84vYhc3YHlCCM-2Quw7G7w) |
-| 06 | 索引优化：何时建索引、何时不建 | [2026-05-01](https://mp.weixin.qq.com/s/N0M5Joe0k1VHrEMEji8TBw) |
-| 07 | SQL优化工具推荐 | [2026-05-02](https://mp.weixin.qq.com/s/p3Dusvvt7BmE1uLDNL5Omw) |
-| 08 | SQL基础：SELECT执行流程 | [2026-05-03](https://mp.weixin.qq.com/s/SJJm8Jmk4zvkYR10xtHHXA) |
-| 09 | WHERE子句优化技巧 | [2026-05-04](https://mp.weixin.qq.com/s/pFMdaD1YQ8VeleW6sfLBcA) |
-| 10 | JOIN的底层原理与优化 | [2026-05-05](https://mp.weixin.qq.com/s/6jWddElYoXDzxQ6xiaaOaA) |
-| 11 | 子查询的坑与优化方案 | [2026-05-06](https://mp.weixin.qq.com/s/UcguNlrZn-j86kMjLUBbdA)|
-| 12 | GROUP BY与COUNT的效率问题 | [2026-05-07](https://mp.weixin.qq.com/s/lzTpCD9d4tUzkyXGk4aVPw) |
-| 13 | ORDER BY的实现原理 | 🕐 05.08 发布 |
+| 01 | MySQL 架构详解：Client/Server 通信流程 | [2026.04.26](https://mp.weixin.qq.com/s/aGXzH6RGqhR-hvYPZfd4mw) |
+| 02 | 存储引擎的选择：InnoDB vs MyISAM | [2026.04.27](https://mp.weixin.qq.com/s/FNGSUgVes5Q7kA3Wf4BHUg)|
+| 03 | MySQL 安装与配置 | [2026.04.28](https://mp.weixin.qq.com/s/P0xvkhHUD0fR9QYOAFQBGg)|
+| 04 | MySQL 常用命令 | [2026.04.29](https://mp.weixin.qq.com/s/bwYwYGIJ0lizKpBtv-Zlsw) |
+| 05 | 索引基础：B+ 树详解 | [2026-04-30](https://mp.weixin.qq.com/s/D6tksxHGK3PwqbdIJ5UNBw) |
+| 06 | 索引优化：何时建索引、何时不建 | [2026-05-01](https://mp.weixin.qq.com/s/dQIq1HJl5VNuf1BXcnzV8w) |
+| 07 | SQL优化工具推荐 | [2026-05-02](https://mp.weixin.qq.com/s/x_jG1IxAuluNaaQiyFhczw) |
+| 08 | SQL基础：SELECT执行流程 | [2026-05-03](https://mp.weixin.qq.com/s/HKuKibHPSOWTkn9iLioN4g) |
+| 09 | WHERE子句优化技巧 | [2026-05-04](https://mp.weixin.qq.com/s/w8bI5bcAGpP1eGHuc3Uu9Q) |
+| 10 | JOIN的底层原理与优化 | [2026-05-05](https://mp.weixin.qq.com/s/zjDvQQuROSfTsH5TuKvJMw) |
+| 11 | 子查询的坑与优化方案 | [2026-05-06](https://mp.weixin.qq.com/s/G4bLZ81SKvTjP3Zao7VnUw)|
+| 12 | GROUP BY与COUNT的效率问题 | [2026-05-07](https://mp.weixin.qq.com/s/aqpNM-_a-6C8P-Q8pAY6Xg) |
+| 13 | ORDER BY的实现原理 | [2026-05-08](https://mp.weixin.qq.com/s/TPMPMV728xFjimJ12ZUHEw)|
 | 14 | LIMIT分页的性能优化 | 🕐 05.09 发布 |
 | 15 | INSERT批量插入的最佳实践 | 🕐 05.10 发布 |
 
