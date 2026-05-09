@@ -51,8 +51,10 @@
 | 11 | 子查询的坑与优化方案 | [2026-05-06](https://mp.weixin.qq.com/s/G4bLZ81SKvTjP3Zao7VnUw)|
 | 12 | GROUP BY与COUNT的效率问题 | [2026-05-07](https://mp.weixin.qq.com/s/aqpNM-_a-6C8P-Q8pAY6Xg) |
 | 13 | ORDER BY的实现原理 | [2026-05-08](https://mp.weixin.qq.com/s/TPMPMV728xFjimJ12ZUHEw)|
-| 14 | LIMIT分页的性能优化 | 🕐 05.09 发布 |
+| 14 | LIMIT分页的性能优化 | [2026-05-09](https://mp.weixin.qq.com/s/HAOCWl8lprcGdL2sbNMpag) |
 | 15 | INSERT批量插入的最佳实践 | 🕐 05.10 发布 |
+| 16 | UPDATE与DELETE的最佳实践 | 🕐 05.11 发布 |
+| 17 | 事务基础：ACID特性 | 🕐 05.12 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
 
