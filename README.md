@@ -53,7 +53,7 @@
 | 13 | ORDER BY的实现原理 | [2026-05-08](https://mp.weixin.qq.com/s/TPMPMV728xFjimJ12ZUHEw)|
 | 14 | LIMIT分页的性能优化 | [2026-05-09](https://mp.weixin.qq.com/s/HAOCWl8lprcGdL2sbNMpag) |
 | 15 | INSERT批量插入的最佳实践 | [2026-05-10](https://mp.weixin.qq.com/s/srgQp7XJSZl7DGkTfsMhhw) |
-| 16 | UPDATE与DELETE的最佳实践 | 🕐 05.11 发布 |
+| 16 | UPDATE与DELETE的最佳实践 | [2026-05-11](https://mp.weixin.qq.com/s/jVa9jtMXL5plUBJk5bSa4w) |
 | 17 | 事务基础：ACID特性 | 🕐 05.12 发布 |
 
 > 📌 链接持续更新中，**关注公众号第一时间获取** 👇
