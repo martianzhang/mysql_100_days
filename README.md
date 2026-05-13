@@ -55,7 +55,7 @@
 | 15 | INSERT批量插入的最佳实践 | [2026-05-10](https://mp.weixin.qq.com/s/srgQp7XJSZl7DGkTfsMhhw) |
 | 16 | UPDATE与DELETE的最佳实践 | [2026-05-11](https://mp.weixin.qq.com/s/jVa9jtMXL5plUBJk5bSa4w) |
 | 17 | 事务基础：ACID特性 | 🕐 05.12 发布 [2026-05-12](https://mp.weixin.qq.com/s/ZvB7GutWUnhQEE3a9s7CmA) |
-| 18 | 事务隔离级别详解 | 🕐 05.13 发布 |
+| 18 | 事务隔离级别详解 | [2026-05-13](https://mp.weixin.qq.com/s/_sI8g9PFJ5375wB8J9GyhA) |
 | 19 | 脏读、不可重复读、幻读 | 🕐 05.14 发布 |
 | 20 | 锁机制：行锁 vs 表锁 | 🕐 05.15 发布 |
 
