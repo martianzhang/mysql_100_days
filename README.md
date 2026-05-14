@@ -36,6 +36,10 @@
 
 ## 📅 每日更新
 
+> 📌 链接持续更新中，**关注公众号第一时间获取** 👇
+
+### 第一阶段：MySQL基础（第1-20天）
+
 | 天 | 知识点 | 链接 |
 |---|--------|------|
 | 01 | MySQL 架构详解：Client/Server 通信流程 | [2026.04.26](https://mp.weixin.qq.com/s/aGXzH6RGqhR-hvYPZfd4mw) |
@@ -54,12 +58,16 @@
 | 14 | LIMIT分页的性能优化 | [2026-05-09](https://mp.weixin.qq.com/s/HAOCWl8lprcGdL2sbNMpag) |
 | 15 | INSERT批量插入的最佳实践 | [2026-05-10](https://mp.weixin.qq.com/s/srgQp7XJSZl7DGkTfsMhhw) |
 | 16 | UPDATE与DELETE的最佳实践 | [2026-05-11](https://mp.weixin.qq.com/s/jVa9jtMXL5plUBJk5bSa4w) |
-| 17 | 事务基础：ACID特性 | 🕐 05.12 发布 [2026-05-12](https://mp.weixin.qq.com/s/ZvB7GutWUnhQEE3a9s7CmA) |
+| 17 | 事务基础：ACID特性 | [2026-05-12](https://mp.weixin.qq.com/s/ZvB7GutWUnhQEE3a9s7CmA) |
 | 18 | 事务隔离级别详解 | [2026-05-13](https://mp.weixin.qq.com/s/_sI8g9PFJ5375wB8J9GyhA) |
 | 19 | 脏读、不可重复读、幻读 | 🕐 05.14 发布 |
 | 20 | 锁机制：行锁 vs 表锁 | 🕐 05.15 发布 |
 
-> 📌 链接持续更新中，**关注公众号第一时间获取** 👇
+### 第二阶段：MySQL进阶（第21-40天）
+
+| 天 | 知识点 | 链接 |
+|---|--------|------|
+| 21 |  InnoDB MVCC机制详解 | 🕐 05.16 发布 |
 
 ---
 
