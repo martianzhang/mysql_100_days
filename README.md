@@ -60,14 +60,14 @@
 | 16 | UPDATE与DELETE的最佳实践 | [2026-05-11](https://mp.weixin.qq.com/s/jVa9jtMXL5plUBJk5bSa4w) |
 | 17 | 事务基础：ACID特性 | [2026-05-12](https://mp.weixin.qq.com/s/ZvB7GutWUnhQEE3a9s7CmA) |
 | 18 | 事务隔离级别详解 | [2026-05-13](https://mp.weixin.qq.com/s/_sI8g9PFJ5375wB8J9GyhA) |
-| 19 | 脏读、不可重复读、幻读 | [2026-05-14](https://mp.weixin.qq.com/s/7Y5bePnc0tR1ovI3YldmsQ) |
-| 20 | 锁机制：行锁 vs 表锁 | 🕐 05.15 发布 |
+| 19 | 脏读、不可重复读、幻读 | [2026-05-16] (https://mp.weixin.qq.com/s/s3Dfs5uhJv5Hb9Pb2bX_xw) |
+| 20 | 锁机制：行锁 vs 表锁 | [2026-05-15](https://mp.weixin.qq.com/s/7Y5bePnc0tR1ovI3YldmsQ) |
 
 ### 第二阶段：MySQL进阶（第21-40天）
 
 | 天 | 知识点 | 链接 |
 |---|--------|------|
-| 21 |  InnoDB MVCC机制详解 | 🕐 05.16 发布 |
+| 21 |  InnoDB MVCC机制详解 | 🕐 05.18 发布 |
 
 ---
 
