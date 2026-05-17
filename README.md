@@ -63,6 +63,8 @@
 | 19 | 脏读、不可重复读、幻读 | [2026-05-16] (https://mp.weixin.qq.com/s/s3Dfs5uhJv5Hb9Pb2bX_xw) |
 | 20 | 锁机制：行锁 vs 表锁 | [2026-05-15](https://mp.weixin.qq.com/s/7Y5bePnc0tR1ovI3YldmsQ) |
 
+[第一阶段总结 2026-05-17](https://mp.weixin.qq.com/s/_oYSKkQSVyOuKiGd9C9TGw)
+
 ### 第二阶段：MySQL进阶（第21-40天）
 
 | 天 | 知识点 | 链接 |
