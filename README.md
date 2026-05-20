@@ -69,9 +69,11 @@
 
 | 天 | 知识点 | 链接 |
 |---|--------|------|
-| 21 |  InnoDB MVCC机制详解 | [2026-05-18](https://mp.weixin.qq.com/s/2IaOGJ0OYDgYfNMiP_suRQ) |
+| 21 | InnoDB MVCC机制详解 | [2026-05-18](https://mp.weixin.qq.com/s/2IaOGJ0OYDgYfNMiP_suRQ) |
 | 22 | 事务死锁的成因与避免 | [2025-05-19](https://mp.weixin.qq.com/s/D3eAxseLbWBzrgwDlmVw8Q) |
-| 22 | 慢查询日志分析 | 🕐 05.20 发布 |
+| 23 | 慢查询日志分析 | [2026-05-20](https://mp.weixin.qq.com/s/_UKkr1eoh5JBl8RDsC2T3g) |
+| 24 | EXPLAIN执行计划解读 | 🕐 05.21 发布 |
+| 25 | 索引失效的典型场景 | 🕐 05.22 发布 |
 
 ---
 
