@@ -105,9 +105,9 @@
 
 <div align="center">
 
-<img src="wechat.png" width="400" alt="微信公众号" />
+<img src="wechat.jpg" width="400" alt="没有那多" />
 
-**扫码关注微信公众号，每天一起打怪升级 🗡️**
+**扫码关注微信公众号“没有那多”，每天一起打怪升级 🗡️**
 
 </div>
 
